@@ -23,6 +23,7 @@
   - SafeAreaView e StatusBar
   - Image
   - Flex-Box
-  - Adicionando name, nickName e descrição
   - Criando botão
-  - Conhecendo o Linking e adicionando código nativo ao android
+  - Pressable
+  - Linking API
+  - Add código nativo no AndroidManifest.xml para abrir link
